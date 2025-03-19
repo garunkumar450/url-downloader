@@ -1,0 +1,344 @@
+{"level":"info","time":"19-Mar-2025 11:39:00.689","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 11:39:00.689","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 11:39:00.689","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 11:39:00.692","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 11:39:00.692","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 11:39:00.692","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 11:39:00.692","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 11:39:00.692","message":"All tasks completed. Exiting..."}
+{"level":"error","time":"19-Mar-2025 11:39:00.693","message":"Error downloading www.anotherone.com: Get \"https://www.anotherone.com\": context canceled"}
+{"level":"info","time":"19-Mar-2025 11:40:55.050","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 11:40:55.051","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 11:40:55.050","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 11:40:55.052","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 11:40:55.052","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 11:40:55.053","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 11:40:55.053","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 11:40:55.053","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 11:44:50.030","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 11:44:50.030","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 11:44:50.030","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 11:44:50.031","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 11:44:50.032","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 11:44:50.032","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 11:44:50.032","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 11:44:50.032","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 11:49:19.268","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 11:49:19.268","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 11:49:19.270","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 11:49:19.268","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 11:49:19.271","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 11:49:19.271","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 11:49:19.272","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 11:49:19.272","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 11:59:34.638","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 11:59:34.639","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 11:59:34.639","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 11:59:34.639","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 11:59:34.640","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 11:59:34.640","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 11:59:34.640","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 11:59:34.640","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:02:04.307","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:02:04.307","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:02:04.307","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:02:04.309","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:02:04.309","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:02:04.309","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:02:04.309","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:02:04.309","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:04:23.171","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:04:23.171","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:04:23.171","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:04:23.174","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:04:23.174","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:04:23.174","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:04:23.175","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:04:23.175","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:04:54.826","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:04:54.826","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:04:54.826","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:04:54.832","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:04:54.832","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:04:54.833","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:04:54.833","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:04:54.833","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:05:17.407","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:05:17.407","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:05:17.407","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:05:17.411","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:05:17.411","message":"Stage-3 Completed "}
+{"level":"info","time":"19-Mar-2025 12:05:17.411","message":"Stage-2 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:05:17.411","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:05:17.412","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:06:07.051","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:06:07.051","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:06:07.051","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:06:07.055","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:06:07.055","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:06:07.055","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:06:07.056","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:06:07.056","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:06:47.487","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:06:47.487","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:06:47.487","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:06:47.491","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:06:47.491","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:06:47.491","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:06:47.492","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:06:47.493","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:07:27.091","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:07:27.091","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:07:27.091","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:07:27.096","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:07:27.096","message":"Stage-3 Completed "}
+{"level":"info","time":"19-Mar-2025 12:07:27.096","message":"Stage-2 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:07:27.096","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:07:27.096","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:08:33.292","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:08:33.292","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:08:33.292","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:08:33.296","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:08:33.297","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:08:33.297","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:08:33.297","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:08:33.297","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:08:53.021","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:08:53.021","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:08:53.021","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:08:53.025","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:08:53.025","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:08:53.025","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:08:53.026","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:08:53.026","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:09:12.435","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:09:12.435","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:09:12.435","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:09:12.438","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:09:12.438","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:09:12.438","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:09:12.438","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:09:31.067","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:09:31.067","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:09:31.068","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:09:31.070","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:09:31.070","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:09:31.070","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":0,"Failures":0,"Avg Download Duration":0,"time":"19-Mar-2025 12:09:31.071","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:09:31.071","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:13:40.117","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:13:40.117","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:13:40.117","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:13:40.119","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:13:40.120","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:13:40.287","message":"Saved content to data/downloads/660694-1742366620286463152.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:13:40.287","message":"Saved content to data/downloads/302162-1742366620287569954.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:13:40.288","message":"Saved content to data/downloads/280272-1742366620287749551.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:13:40.289","message":"Saved content to data/downloads/193287-1742366620288534611.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:13:40.289","message":"Saved content to data/downloads/305828-1742366620289245122.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:13:40.364","message":"Saved content to data/downloads/228363-1742366620364598458.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:13:40.367","message":"Saved content to data/downloads/361058-1742366620366926931.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:13:40.369","message":"Saved content to data/downloads/886693-1742366620369234152.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:13:40.407","message":"Saved content to data/downloads/75661-1742366620406770068.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:13:40.408","message":"Saved content to data/downloads/607363-1742366620408254618.txt for url:www.anotherone.com\n"}
+{"level":"error","time":"19-Mar-2025 12:13:40.660","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:13:40.660","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:13:40.660","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:13:40.660","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:13:40.664","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 12:13:40.751","message":"Saved content to data/downloads/402849-1742366620750832830.txt for url:www.google.com\n"}
+{"level":"info","time":"19-Mar-2025 12:13:40.752","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":11,"Failures":5,"Avg Download Duration":253451723,"time":"19-Mar-2025 12:13:40.752","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:13:40.752","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:14:46.749","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:14:46.749","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:14:46.749","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:14:46.753","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:14:46.753","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:14:46.945","message":"Saved content to data/downloads/245109-1742366686945460501.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:14:46.946","message":"Saved content to data/downloads/362238-1742366686946539909.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:14:46.947","message":"Saved content to data/downloads/382505-1742366686947148553.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:14:46.947","message":"Saved content to data/downloads/292362-1742366686947411165.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:14:46.947","message":"Saved content to data/downloads/483101-1742366686947682022.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:14:46.959","message":"Saved content to data/downloads/239936-1742366686959173823.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:14:46.981","message":"Saved content to data/downloads/716984-1742366686981121051.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:14:46.998","message":"Saved content to data/downloads/160234-1742366686998267362.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:14:47.028","message":"Saved content to data/downloads/766906-1742366687028205353.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:14:47.047","message":"Saved content to data/downloads/350566-1742366687047352511.txt for url:www.anotherone.com\n"}
+{"level":"error","time":"19-Mar-2025 12:14:47.274","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:14:47.274","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:14:47.274","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:14:47.276","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:14:47.293","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 12:14:47.377","message":"Saved content to data/downloads/986554-1742366687377657828.txt for url:www.google.com\n"}
+{"level":"info","time":"19-Mar-2025 12:14:47.378","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":11,"Failures":5,"Avg Download Duration":258753957,"time":"19-Mar-2025 12:14:47.378","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:14:47.378","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:15:07.323","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:15:07.324","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:15:07.323","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:15:07.326","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:15:07.326","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:15:07.457","message":"Saved content to data/downloads/792716-1742366707456679318.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:07.457","message":"Saved content to data/downloads/260660-1742366707457543998.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:07.457","message":"Saved content to data/downloads/867503-1742366707457649371.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:07.457","message":"Saved content to data/downloads/361131-1742366707457740293.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:07.457","message":"Saved content to data/downloads/346693-1742366707457804048.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:07.584","message":"Saved content to data/downloads/765465-1742366707583229442.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:07.584","message":"Saved content to data/downloads/946788-1742366707584449306.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:07.586","message":"Saved content to data/downloads/432982-1742366707585412570.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:07.587","message":"Saved content to data/downloads/293375-1742366707587339215.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:07.635","message":"Saved content to data/downloads/651616-1742366707635360724.txt for url:www.anotherone.com\n"}
+{"level":"error","time":"19-Mar-2025 12:15:07.822","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:15:07.841","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:15:07.841","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 12:15:07.863","message":"Saved content to data/downloads/245525-1742366707862070946.txt for url:www.google.com\n"}
+{"level":"error","time":"19-Mar-2025 12:15:07.868","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:15:07.870","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 12:15:07.870","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":11,"Failures":5,"Avg Download Duration":230600120,"time":"19-Mar-2025 12:15:07.870","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:15:07.870","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:15:51.672","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:15:51.672","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:15:51.672","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:15:51.676","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:15:51.677","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:15:51.841","message":"Saved content to data/downloads/156961-1742366751841340149.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:51.842","message":"Saved content to data/downloads/189443-1742366751842371400.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:51.842","message":"Saved content to data/downloads/418688-1742366751842579074.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:51.842","message":"Saved content to data/downloads/247680-1742366751842712359.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:51.842","message":"Saved content to data/downloads/697310-1742366751842836234.txt for url:www.example.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:51.945","message":"Saved content to data/downloads/69078-1742366751943462461.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:51.948","message":"Saved content to data/downloads/638120-1742366751947790708.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:51.953","message":"Saved content to data/downloads/890867-1742366751953431800.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:51.993","message":"Saved content to data/downloads/327028-1742366751993381165.txt for url:www.anotherone.com\n"}
+{"level":"info","time":"19-Mar-2025 12:15:51.996","message":"Saved content to data/downloads/5049-1742366751996377095.txt for url:www.anotherone.com\n"}
+{"level":"error","time":"19-Mar-2025 12:15:52.219","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:15:52.237","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 12:15:52.238","message":"Saved content to data/downloads/259843-1742366752238440786.txt for url:www.google.com\n"}
+{"level":"error","time":"19-Mar-2025 12:15:52.262","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:15:52.264","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:15:52.267","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 12:15:52.267","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":11,"Failures":5,"Avg Download Duration":259566952,"time":"19-Mar-2025 12:15:52.267","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:15:52.267","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:16:24.036","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:16:24.036","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:16:24.037","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:16:24.040","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:16:24.040","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:16:24.232","message":"Saved content to data/downloads/572697-1742366784231737036.txt for url:www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:16:24.233","message":"Saved content to data/downloads/716499-1742366784232925381.txt for url:www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:16:24.233","message":"Saved content to data/downloads/820387-1742366784233597915.txt for url:www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:16:24.234","message":"Saved content to data/downloads/693947-1742366784233908321.txt for url:www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:16:24.239","message":"Saved content to data/downloads/658349-1742366784239770815.txt for url:www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:16:24.269","message":"Saved content to data/downloads/409794-1742366784268696191.txt for url:www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:16:24.284","message":"Saved content to data/downloads/357055-1742366784284047799.txt for url:www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:16:24.284","message":"Saved content to data/downloads/543978-1742366784284390236.txt for url:www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:16:24.297","message":"Saved content to data/downloads/877655-1742366784297007247.txt for url:www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:16:24.312","message":"Saved content to data/downloads/257183-1742366784312110383.txt for url:www.anotherone.com"}
+{"level":"error","time":"19-Mar-2025 12:16:24.558","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:16:24.575","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:16:24.600","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:16:24.600","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:16:24.600","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 12:16:24.635","message":"Saved content to data/downloads/215576-1742366784633771944.txt for url:www.google.com"}
+{"level":"info","time":"19-Mar-2025 12:16:24.635","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":11,"Failures":5,"Avg Download Duration":255454989,"time":"19-Mar-2025 12:16:24.635","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:16:24.635","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:40:50.534","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:40:50.534","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:40:50.534","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:40:50.537","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:40:50.537","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:40:50.676","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/370040-1742368250675129091.txt for url:www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:40:50.677","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/426054-1742368250676889544.txt for url:www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:40:50.677","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/943141-1742368250677667048.txt for url:www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:40:50.684","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/677390-1742368250684279436.txt for url:www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:40:50.692","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/864598-1742368250692526589.txt for url:www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:40:50.722","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/59130-1742368250722639578.txt for url:www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:40:50.747","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/601235-1742368250747555967.txt for url:www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:40:50.774","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/655235-1742368250774446789.txt for url:www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:40:50.774","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/40512-1742368250774723073.txt for url:www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:40:50.783","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/229449-1742368250782821415.txt for url:www.anotherone.com"}
+{"level":"error","time":"19-Mar-2025 12:40:51.027","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:40:51.027","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:40:51.030","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:40:51.049","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:40:51.074","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 12:40:51.089","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/697202-1742368251087858212.txt for url:www.google.com"}
+{"level":"info","time":"19-Mar-2025 12:40:51.089","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":11,"Failures":5,"Avg Download Duration":"217.156676ms","Latency":"555.700781ms","time":"19-Mar-2025 12:40:51.089","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:40:51.090","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 12:57:35.727","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 12:57:35.728","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 12:57:35.727","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 12:57:35.730","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 12:57:35.730","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 12:57:35.924","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/823231-1742369255924514174.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:57:35.924","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/836015-1742369255924735134.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:57:35.925","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/394566-1742369255925160828.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:57:35.930","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/463298-1742369255930030512.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:57:35.939","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/904482-1742369255939641389.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 12:57:36.001","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/808458-1742369256001532366.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:57:36.026","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/75380-1742369256026185253.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:57:36.034","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/409918-1742369256034644189.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:57:36.036","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/163160-1742369256036335895.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 12:57:36.051","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/100438-1742369256049993007.txt for URL: www.anotherone.com"}
+{"level":"error","time":"19-Mar-2025 12:57:36.154","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:57:36.154","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:57:36.154","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:57:36.154","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 12:57:36.154","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 12:57:36.263","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/276445-1742369256263275785.txt for URL: www.google.com"}
+{"level":"info","time":"19-Mar-2025 12:57:36.263","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":11,"Failures":5,"Avg Download Duration":"275.194452ms","Latency":"536.187079ms","time":"19-Mar-2025 12:57:36.263","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 12:57:36.264","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 15:42:10.559","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 15:42:10.559","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 15:42:10.560","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 15:42:10.559","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 15:42:10.562","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 15:42:10.769","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/955222-1742379130768324812.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 15:42:10.772","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/519957-1742379130771331579.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 15:42:10.772","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/39714-1742379130772538517.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 15:42:10.793","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/60880-1742379130792673806.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 15:42:10.794","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/674955-1742379130794569172.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 15:42:10.799","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/883438-1742379130799437823.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 15:42:10.800","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/312362-1742379130799997348.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 15:42:10.802","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/845029-1742379130802495036.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 15:42:10.813","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/35522-1742379130813480523.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 15:42:10.814","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/933437-1742379130814167416.txt for URL: www.example.com"}
+{"level":"error","time":"19-Mar-2025 15:42:11.115","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 15:42:11.115","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 15:42:11.115","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 15:42:11.120","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 15:42:11.154","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/111178-1742379131154016701.txt for URL: www.google.com"}
+{"level":"error","time":"19-Mar-2025 15:42:11.158","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 15:42:11.159","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":11,"Failures":5,"Avg Download Duration":"262.251771ms","Latency":"599.641211ms","time":"19-Mar-2025 15:42:11.159","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 15:42:11.159","message":"All tasks completed. Exiting..."}
+{"level":"info","time":"19-Mar-2025 15:43:26.901","message":"Stage-3 Started  Persistent"}
+{"level":"info","time":"19-Mar-2025 15:43:26.901","message":"Stage-1 Started Reading Csv file"}
+{"level":"info","time":"19-Mar-2025 15:43:26.901","message":"Stage-2 Started  download URLS"}
+{"level":"info","time":"19-Mar-2025 15:43:26.902","message":"Stage-1 Completed "}
+{"level":"info","time":"19-Mar-2025 15:43:26.902","message":"Stage-2 Completed "}
+{"level":"info","time":"19-Mar-2025 15:43:27.047","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/882722-1742379207046245863.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 15:43:27.072","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/592916-1742379207072324838.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 15:43:27.082","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/108145-1742379207082089793.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 15:43:27.084","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/36204-1742379207084075981.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 15:43:27.084","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/535161-1742379207084871175.txt for URL: www.anotherone.com"}
+{"level":"info","time":"19-Mar-2025 15:43:27.106","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/295510-1742379207106473041.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 15:43:27.108","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/215144-1742379207108184980.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 15:43:27.111","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/192503-1742379207111073915.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 15:43:27.114","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/214775-1742379207114223567.txt for URL: www.example.com"}
+{"level":"info","time":"19-Mar-2025 15:43:27.150","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/425497-1742379207149169401.txt for URL: www.example.com"}
+{"level":"error","time":"19-Mar-2025 15:43:27.345","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 15:43:27.345","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 15:43:27.346","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 15:43:27.346","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"error","time":"19-Mar-2025 15:43:27.346","message":"Error downloading www.someotherurl.com/api/v1: HTTP error: 403"}
+{"level":"info","time":"19-Mar-2025 15:43:27.395","message":"Saved content to /DISK01/arun/url-downloader/data/downloads/478080-1742379207394950809.txt for URL: www.google.com"}
+{"level":"info","time":"19-Mar-2025 15:43:27.395","message":"Stage-3 Completed "}
+{"level":"info","Total URLs":16,"Success":11,"Failures":5,"Avg Download Duration":"220.480869ms","Latency":"494.410087ms","time":"19-Mar-2025 15:43:27.396","message":"Summary"}
+{"level":"info","time":"19-Mar-2025 15:43:27.396","message":"All tasks completed. Exiting..."}
